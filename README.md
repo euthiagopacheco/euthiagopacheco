@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" alt="euthiagopachecoHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-  
+<img alt="euthiagopachecoHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-  
 original.svg" style="max-width: 100%;">
 </div>
 <div>
