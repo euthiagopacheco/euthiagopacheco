@@ -3,7 +3,7 @@
   <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistema na Estácio.</h3>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/thiago-pacheco-965b0b220/">
+  <a href="https://www.linkedin.com/in/th-pacheco/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin_badge" />
   </a>
   <a href="https://www.instagram.com/oiteaga/">
