@@ -13,6 +13,8 @@
 <details>
   <summary><h2 id="Utilizo"> Linguagens que utilizo</h2></summary>
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" style="max-width: 100%;">
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" style="max-width: 100%;">
+  <img alt="REACTJS" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" style="max-width: 100%;">
 </details>
 <details>
   <summary><h2 id="Aprendendo"> Estou Aprendendo</h2></summary>
